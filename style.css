@@ -1,0 +1,27 @@
+.bigblue {
+    color:blue; font-size:30px;
+}
+
+.simplegrey {
+    color:grey;
+}
+
+.smallgreen {
+    font-size:8px; color:green; font-style: italic;
+}
+
+.rightorange {
+    font-weight:bold; color:orange; text-align:right;
+}
+
+.justifypink {
+ text-align:justify; color:pink; font-family:tahoma
+}
+
+.purple {
+text-decoration:underline; color: purple; font-family: 'Roboto','Helvetica', 'sans-serif'
+}
+
+.yellow {
+    background-color: yellow; font-weight:bold; font-family: 'Comic Sans MS', 'Comic Sans','Cursive'; line-height:25px
+}
